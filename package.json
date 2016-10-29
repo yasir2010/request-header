@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "FreeCodeCamp Request Header Parser Microservice",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.14.0"
+  },
   "devDependencies": {},
   "scripts": {
     "start" : "node index.js"
