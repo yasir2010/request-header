@@ -1,0 +1,21 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Request Header Parser Microservice",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasir2010/request-header.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasir2010/request-header/issues"
+  },
+  "homepage": "https://github.com/yasir2010/request-header#readme"
+}
